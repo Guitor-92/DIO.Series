@@ -32,8 +32,9 @@
             "args": [
                 "watch",
                 "run",
-                "--project",
-                "${workspaceFolder}/DIO.Series.csproj"
+                "${workspaceFolder}/DIO.Series.csproj",
+                "/property:GenerateFullPaths=true",
+                "/consoleloggerparameters:NoSummary"
             ],
             "problemMatcher": "$msCompile"
         }
