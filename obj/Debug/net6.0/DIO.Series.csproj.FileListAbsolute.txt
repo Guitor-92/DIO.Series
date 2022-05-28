@@ -3,3 +3,13 @@ C:\Users\Guilherme\Documents\Cursos\Impulso_Dio\Dio\DIO.Series\obj\Debug\net6.0\
 C:\Users\Guilherme\Documents\Cursos\Impulso_Dio\Dio\DIO.Series\obj\Debug\net6.0\DIO.Series.AssemblyInfoInputs.cache
 C:\Users\Guilherme\Documents\Cursos\Impulso_Dio\Dio\DIO.Series\obj\Debug\net6.0\DIO.Series.AssemblyInfo.cs
 C:\Users\Guilherme\Documents\Cursos\Impulso_Dio\Dio\DIO.Series\obj\Debug\net6.0\DIO.Series.csproj.CoreCompileInputs.cache
+C:\Users\Guilherme\Documents\Cursos\Impulso_Dio\Dio\DIO.Series\bin\Debug\net6.0\DIO.Series.exe
+C:\Users\Guilherme\Documents\Cursos\Impulso_Dio\Dio\DIO.Series\bin\Debug\net6.0\DIO.Series.deps.json
+C:\Users\Guilherme\Documents\Cursos\Impulso_Dio\Dio\DIO.Series\bin\Debug\net6.0\DIO.Series.runtimeconfig.json
+C:\Users\Guilherme\Documents\Cursos\Impulso_Dio\Dio\DIO.Series\bin\Debug\net6.0\DIO.Series.dll
+C:\Users\Guilherme\Documents\Cursos\Impulso_Dio\Dio\DIO.Series\bin\Debug\net6.0\DIO.Series.pdb
+C:\Users\Guilherme\Documents\Cursos\Impulso_Dio\Dio\DIO.Series\obj\Debug\net6.0\DIO.Series.dll
+C:\Users\Guilherme\Documents\Cursos\Impulso_Dio\Dio\DIO.Series\obj\Debug\net6.0\refint\DIO.Series.dll
+C:\Users\Guilherme\Documents\Cursos\Impulso_Dio\Dio\DIO.Series\obj\Debug\net6.0\DIO.Series.pdb
+C:\Users\Guilherme\Documents\Cursos\Impulso_Dio\Dio\DIO.Series\obj\Debug\net6.0\DIO.Series.genruntimeconfig.cache
+C:\Users\Guilherme\Documents\Cursos\Impulso_Dio\Dio\DIO.Series\obj\Debug\net6.0\ref\DIO.Series.dll
